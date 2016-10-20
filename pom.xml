@@ -27,8 +27,8 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.canteratech.restclient</groupId>
-			<artifactId>restclient-core</artifactId>
-			<version>3.2</version>
+			<artifactId>restclient-multipart</artifactId>
+			<version>3.6.8</version>
 		</dependency>
 		<dependency>
 			<groupId>commons-logging</groupId>
